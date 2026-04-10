@@ -1,0 +1,6 @@
+{
+  "name": "cma",
+  "version": "1.0.0",
+  "description": "Run multiple Claude Code instances with different auth methods from a single session.",
+  "author": { "name": "wsza" }
+}

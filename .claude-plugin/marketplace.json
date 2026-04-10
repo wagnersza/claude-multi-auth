@@ -1,0 +1,17 @@
+{
+  "name": "claude-multi-auth",
+  "owner": { "name": "wsza" },
+  "metadata": {
+    "description": "Run multiple Claude Code instances with different auth methods from a single session.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cma",
+      "description": "Run multiple Claude Code instances with different auth methods from a single session.",
+      "version": "1.0.0",
+      "author": { "name": "wsza" },
+      "source": "./plugins/cma"
+    }
+  ]
+}
